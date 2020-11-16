@@ -1,6 +1,10 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 Cmd: preprocess
+  insize=145572 outsize=6018 ok=1
+Cmd: preprocess
+  insize=159083 outsize=7566 ok=1
+Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
   insize=811 outsize=209 ok=1
@@ -64,3 +68,807 @@ Cmd: preprocess
   insize=9982 outsize=581 ok=1
 Cmd: preprocess
   insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3622 outsize=583 ok=1
+Cmd: preprocess
+  insize=4612 outsize=583 ok=1
+Cmd: preprocess
+  insize=5323 outsize=582 ok=1
+Cmd: preprocess
+  insize=8361 outsize=585 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=3849 outsize=580 ok=1
+Cmd: preprocess
+  insize=111554 outsize=4417 ok=1
+Cmd: preprocess
+  insize=3727 outsize=591 ok=1
+Cmd: preprocess
+  insize=7399 outsize=589 ok=1
+Cmd: preprocess
+  insize=9243 outsize=583 ok=1
+Cmd: preprocess
+  insize=9982 outsize=581 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=111554 outsize=4417 ok=1
+Cmd: preprocess
+  insize=3849 outsize=580 ok=1
+Cmd: preprocess
+  insize=9243 outsize=583 ok=1
+Cmd: preprocess
+  insize=9982 outsize=581 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=8361 outsize=585 ok=1
+Cmd: preprocess
+  insize=7399 outsize=589 ok=1
+Cmd: preprocess
+  insize=3622 outsize=583 ok=1
+Cmd: preprocess
+  insize=4612 outsize=583 ok=1
+Cmd: preprocess
+  insize=5323 outsize=582 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=134202 outsize=6062 ok=1
+Cmd: preprocess
+  insize=4251 outsize=408 ok=1
+Cmd: preprocess
+  insize=4575 outsize=404 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3622 outsize=583 ok=1
+Cmd: preprocess
+  insize=4612 outsize=583 ok=1
+Cmd: preprocess
+  insize=5323 outsize=582 ok=1
+Cmd: preprocess
+  insize=8361 outsize=585 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=3849 outsize=580 ok=1
+Cmd: preprocess
+  insize=111554 outsize=4417 ok=1
+Cmd: preprocess
+  insize=3727 outsize=591 ok=1
+Cmd: preprocess
+  insize=7399 outsize=589 ok=1
+Cmd: preprocess
+  insize=9243 outsize=583 ok=1
+Cmd: preprocess
+  insize=9982 outsize=581 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=145804 outsize=6019 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21816 outsize=986 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21816 outsize=346 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145790 outsize=6019 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21814 outsize=986 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21814 outsize=346 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21914 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21914 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145790 outsize=6019 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21814 outsize=986 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21814 outsize=346 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=30699 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1760): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=30699 outsize=4322 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21914 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21914 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=107606 outsize=4412 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21124 outsize=870 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21124 outsize=366 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=31088 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1761): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=31088 outsize=4670 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=111566 outsize=4416 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22362 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22362 outsize=494 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=31830 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1804): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=31830 outsize=4722 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145790 outsize=6018 ok=1
+Cmd: preprocess
+  insize=107606 outsize=4412 ok=1
+Cmd: preprocess
+  insize=111670 outsize=4417 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22388 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22388 outsize=494 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=31856 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1804): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=31856 outsize=4878 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21914 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21914 outsize=470 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=107606 outsize=4412 ok=1
+Cmd: preprocess
+  insize=111642 outsize=4416 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22381 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22381 outsize=494 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=31849 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1804): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=31849 outsize=4878 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145741 outsize=6019 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21807 outsize=986 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21807 outsize=346 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=30692 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1760): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=30692 outsize=4506 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21907 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21907 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145741 outsize=6018 ok=1
+Cmd: preprocess
+  insize=145755 outsize=6019 ok=1
+Cmd: preprocess
+  insize=145755 outsize=6017 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21909 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21909 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145523 outsize=6018 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21778 outsize=986 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21778 outsize=178 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=30663 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1756): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=30663 outsize=4322 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21878 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21878 outsize=298 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=145741 outsize=6018 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21907 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21907 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=8264 outsize=583 ok=1
+Cmd: preprocess
+  insize=9017 outsize=581 ok=1
+Cmd: preprocess
+  insize=109232 outsize=4414 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22381 outsize=986 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22381 outsize=494 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=30644 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1781): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=30644 outsize=4794 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=105196 outsize=4413 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=21122 outsize=870 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=21122 outsize=366 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=29883 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1738): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=29883 outsize=4530 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=136183 outsize=6018 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=20623 outsize=870 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=20623 outsize=142 kw=UNITY_PASS_SHADOWCASTER pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=28958 outsize=1042 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (1702): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=28958 outsize=4158 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=20721 outsize=870 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=20721 outsize=262 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3622 outsize=583 ok=1
+Cmd: preprocess
+  insize=4612 outsize=583 ok=1
+Cmd: preprocess
+  insize=5323 outsize=582 ok=1
+Cmd: preprocess
+  insize=8361 outsize=585 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=3849 outsize=580 ok=1
+Cmd: preprocess
+  insize=105196 outsize=4413 ok=1
+Cmd: preprocess
+  insize=3727 outsize=591 ok=1
+Cmd: preprocess
+  insize=7399 outsize=589 ok=1
+Cmd: preprocess
+  insize=8264 outsize=583 ok=1
+Cmd: preprocess
+  insize=9017 outsize=581 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=3849 outsize=580 ok=1
+Cmd: preprocess
+  insize=8264 outsize=583 ok=1
+Cmd: preprocess
+  insize=9017 outsize=581 ok=1
+Cmd: preprocess
+  insize=105196 outsize=4413 ok=1
+Cmd: preprocess
+  insize=4163 outsize=595 ok=1
+Cmd: preprocess
+  insize=8361 outsize=585 ok=1
+Cmd: preprocess
+  insize=7399 outsize=589 ok=1
+Cmd: preprocess
+  insize=3622 outsize=583 ok=1
+Cmd: preprocess
+  insize=4612 outsize=583 ok=1
+Cmd: preprocess
+  insize=5323 outsize=582 ok=1
+Cmd: preprocessCompute
+  insize=6381 outsize=6383 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6383 outsize=2003 ok=1
+Cmd: preprocessCompute
+  insize=5823 outsize=5825 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5825 outsize=1508 ok=1
+Cmd: preprocess
+  insize=39713 outsize=631 ok=1
+Cmd: preprocessCompute
+  insize=1975 outsize=1977 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1977 outsize=1398 ok=1
+Cmd: preprocessCompute
+  insize=6347 outsize=6349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6349 outsize=2207 ok=1
+Cmd: preprocessCompute
+  insize=5823 outsize=5825 ok=1
+Cmd: preprocess
+  insize=39713 outsize=631 ok=1
+Cmd: preprocessCompute
+  insize=1975 outsize=1977 ok=1
+Cmd: preprocessCompute
+  insize=6347 outsize=6349 ok=1
+Cmd: preprocessCompute
+  insize=5823 outsize=5825 ok=1
+Cmd: preprocess
+  insize=39713 outsize=631 ok=1
+Cmd: preprocessCompute
+  insize=1975 outsize=1977 ok=1
+Cmd: preprocessCompute
+  insize=6446 outsize=6448 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6448 outsize=2223 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5827 outsize=1402 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=6446 outsize=6448 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=6446 outsize=6448 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=6446 outsize=6448 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7561 outsize=2892 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=5825 outsize=5827 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7445 outsize=2565 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7559 outsize=7561 ok=1
+Cmd: preprocessCompute
+  insize=7443 outsize=7445 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7756 outsize=2940 ok=1
+Cmd: preprocessCompute
+  insize=8075 outsize=8077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8077 outsize=3059 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=8075 outsize=8077 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=8075 outsize=8077 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=8075 outsize=8077 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=9139 outsize=9141 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9141 outsize=3550 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=9139 outsize=9141 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12476 outsize=4670 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12476 outsize=4778 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+Cmd: preprocessCompute
+  insize=7754 outsize=7756 ok=1
+Cmd: preprocessCompute
+  insize=12474 outsize=12476 ok=1
+Cmd: preprocess
+  insize=40669 outsize=618 ok=1
+
+Quitting shader compiler process
