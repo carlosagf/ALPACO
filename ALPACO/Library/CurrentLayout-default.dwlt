@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 30
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 18
+  controlID: 31
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 19
+  controlID: 32
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -518,23 +518,23 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1375
-      height: 629
-    m_Scale: {x: 0.81901044, y: 0.81901044}
-    m_Translation: {x: 687.5, y: 314.5}
+      height: 650
+    m_Scale: {x: 0.8463542, y: 0.8463542}
+    m_Translation: {x: 687.5, y: 325}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -839.4276
+      x: -812.3077
       y: -384
-      width: 1678.8552
+      width: 1624.6154
       height: 768
     m_MinimalGUI: 1
-  m_defaultScale: 0.81901044
+  m_defaultScale: 0.8463542
   m_LastWindowPixelSize: {x: 1375, y: 650}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -570,9 +570,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: dc3c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 76adffff724d0000
+      m_ExpandedIDs: 88f7fffff2480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.8834887, y: -17.064741, z: 27.858416}
+    m_Target: {x: 36.45121, y: -12.083633, z: -34.478703}
     speed: 2
-    m_Value: {x: 4.8834887, y: -17.064741, z: 27.858416}
+    m_Value: {x: 36.45121, y: -12.083633, z: -34.478703}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -680,13 +680,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.30948216, y: 0.06273178, z: -0.020372974, w: -0.9487549}
+    m_Target: {x: -0.24385932, y: 0.0043987227, z: -0.0009397757, w: -0.96994376}
     speed: 2
-    m_Value: {x: -0.3094411, y: 0.06272346, z: -0.020370271, w: -0.948629}
+    m_Value: {x: -0.24382651, y: 0.0029433926, z: -0.0005739059, w: -0.9698143}
   m_Size:
-    m_Target: 36.045654
+    m_Target: 1029.7852
     speed: 2
-    m_Value: 36.045654
+    m_Value: 985.4403
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -776,20 +776,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Carlos
+    - Assets/Carlos/Shaders
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Carlos
+  - Assets/Carlos/Shaders
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Sant Marc\Jordi\2n\Universo\ALPACO\ALPACO
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 9}
-    m_SelectedIDs: ae4d0000
-    m_LastClickedID: 19886
-    m_ExpandedIDs: 00000000a84d0000ae4d000000ca9a3bffffff7f
+    m_SelectedIDs: 82490000
+    m_LastClickedID: 18818
+    m_ExpandedIDs: 000000004c4900004e49000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -817,7 +817,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a84d0000
+    m_ExpandedIDs: 000000004c4900004e490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -844,7 +844,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000b8500000c63f0000523601008264010084d40100ec45000046690000ca34000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
